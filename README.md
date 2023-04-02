@@ -9,7 +9,9 @@ Jakub Piskorski, Nicolas Stefanovitch, Brian Doherty, Jens P. Linge,
 Sopho Kharazi, Jas Mantero, Guillaume Jacquet, Alessio Spadaro and Giulia Teodori.
 In Proceedings of Text2Story 2023: Sixth International Workshop on Narrative Extraction 
 from Texts held in conjunction with the 45th European Conference on Information Retrieval, 
-Dublin, Ireland, 2023.
+Dublin, Ireland, 2023. 
+
+Please cite using this reference: https://github.com/jpiskorski/infectious-diseases-events/blob/main/reference.bib
 
 The archive contains three files:
 
