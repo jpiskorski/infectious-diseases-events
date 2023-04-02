@@ -4,7 +4,7 @@ This repository contains the Multi-label Infectious Disease News Event Corpus
 mentioned in the following paper:
 
 
-Multi-label Infectious Disease News Event Corpus.
+Multi-label Infectious Disease News Event Corpus. 
 Jakub Piskorski1, Nicolas Stefanovitch, Brian Doherty, Jens P. Linge,
 Sopho Kharazi, Jas Mantero, Guillaume Jacquet, Alessio Spadaro and Giulia Teodori.
 In Proceedings of Text2Story 2023: Sixth International Workshop on Narrative Extraction 
