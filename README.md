@@ -25,4 +25,4 @@ The text snippets and the labels are separated by tabs.
 
 3. Annotation_guidelines.pdf
 
-The draft version of the annotation guidelines used by the annotators.
+The draft version of the annotation guidelines used by the annotators. A new complete version will be released soon. 
