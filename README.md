@@ -5,7 +5,7 @@ mentioned in the following paper:
 
 
 Multi-label Infectious Disease News Event Corpus. 
-Jakub Piskorski1, Nicolas Stefanovitch, Brian Doherty, Jens P. Linge,
+Jakub Piskorski, Nicolas Stefanovitch, Brian Doherty, Jens P. Linge,
 Sopho Kharazi, Jas Mantero, Guillaume Jacquet, Alessio Spadaro and Giulia Teodori.
 In Proceedings of Text2Story 2023: Sixth International Workshop on Narrative Extraction 
 from Texts held in conjunction with the 45th European Conference on Information Retrieval, 
