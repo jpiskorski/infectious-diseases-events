@@ -28,3 +28,5 @@ The text snippets and the labels are separated by tabs.
 3. Annotation_guidelines.pdf
 
 The draft version of the annotation guidelines used by the annotators. A new complete version will be released soon. 
+
+NOTE: new updated version 1.1 available since 25 May 2023 (small fixes related to inconsistent labels and removing some redundant entries)
